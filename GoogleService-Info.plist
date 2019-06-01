@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>767148985488-kgecs3dhtkbi515kecm003cbhgb386l1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.767148985488-kgecs3dhtkbi515kecm003cbhgb386l1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAMw-QcFNBu7rPtO2-xfln05rzWnZSLKcE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>767148985488</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AricMistovich.MCMS-App---Aric-Mistovich</string>
+	<key>PROJECT_ID</key>
+	<string>mcms-aric</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mcms-aric.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:767148985488:ios:5ce9530aed503242</string>
+	<key>DATABASE_URL</key>
+	<string>https://mcms-aric.firebaseio.com</string>
+</dict>
+</plist>
